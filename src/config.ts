@@ -202,9 +202,9 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa6-brands:telegram",
 				},
+			],
 		},
-	],
-};
+	};
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
