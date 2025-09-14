@@ -86,7 +86,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "Beautiful Mizuki!", // 主页横幅主标题
+			title: "牢废物的blog", // 主页横幅主标题
 
 			subtitle: [
 				"A Showcase Demo Site",
@@ -245,7 +245,7 @@ export const expressiveCodeConfig: ExpressiveCodeConfig = {
 export const commentConfig: CommentConfig = {
 	enable: true, // 启用评论功能。当设置为 false 时，评论组件将不会显示在文章区域。
 	twikoo: {
-		envId: "https://twikoo.vercel.app",
+		envId: "https://twikoo-vercel.hekuo.icu",
 		lang: "zh", // 设置 Twikoo 评论系统语言为英文
 	},
 };
