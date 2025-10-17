@@ -243,7 +243,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "https://aliyun-oss-bucket.d-dos.cc/b_0bf6b807051a9d9334e8b779b0a1e303.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "牢废物",
 	bio: "世界以痛吻我,请问我可以报警说他是变态吗",
 	links: [
